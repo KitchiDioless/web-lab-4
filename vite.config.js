@@ -10,5 +10,5 @@ export default defineConfig({
   build: {
     outDir: 'dist'
   },
-  base: '/front-lab-4/'
+  base: '/web-lab-4/'
 })
